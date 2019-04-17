@@ -49,13 +49,13 @@ Annotation files are needed. Please prepare the following files and place them i
 
 
 
-
+---
 
 ### **Usage:**
 1. Make an overall deletions list from results of IMSindel indel call results for each sample run.
 
 - Use the script <process_IMSindel_results.sh> to process the .out files of IMSindel results.  
-- Ensure that each samples' .out files are contained in a single individual directory specific to the sample. E.g. /path/to/results/sample1_results and /path/to/results/sample2_results ...etc.  
+- Ensure that each samples' .out files are contained in a single individual directory specific to the sample. E.g. _/path/to/results/sample1_results_ and _/path/to/results/sample2_results_ ...etc.  
 - It is recommended to have all samples' deletions lists within a single directory, i.e. /path/to/all/samples_deletions/  
 - Deletions from the IMSindel call for each sample will be extracted from the results of the IMSindel run and collected into a single deletions list per sample. 
 ```
