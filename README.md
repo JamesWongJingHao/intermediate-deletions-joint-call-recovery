@@ -46,7 +46,9 @@ Annotation files used are mainly taken from, or modified from the UCSC genome br
 - This file is provided as a .zip file. The file is modified from the "hg19_repeatmasker_ucsc.txt" file. Please expand the file before use.  
 
 
-Also prepare a tab-delimited text file containing sample names and locations of the corresponding .bam files of the samples.
+**6. bam_files_locations.txt**
+
+- Prepare a tab-delimited text file containing sample names and locations of the corresponding .bam files of the samples.
 First column should contain the sample name (e.g. "Sample1"), followed by the location of the .bam file in the second column (e.g. "/path/to/directory/containing/Sample1.bam").  
 
 
