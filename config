@@ -1,0 +1,20 @@
+##### Parameters (please make changes to values in this file if needed). #####
+merge_deletion_breakpoints_start=10
+merge_deletion_breakpoints_end=10
+annotation_flank=100
+simplerepeat_proportion_threshold=0.5
+flanking_repeat_coverage_proportion_threshold=0.5
+LD_dels_support_reads_threshold=5
+SID_dels_number_threshold=2
+LD_dels_number_threshold=2
+LD_sr_number_threshold=2
+del_len_recovery_threshold=50
+del_len_filter_threshold=30
+HWE_exclusion_threshold=0.0001
+bamfile_extract_range=1000
+breakpoint_score_extract_range=110
+readdepth_filter_threshold=150
+readscore_filter_threshold=15
+reference=NCBI37
+assembly="<Enter_genome_assembly_used_here>"
+####################################################################
