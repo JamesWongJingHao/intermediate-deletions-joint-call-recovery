@@ -29,7 +29,7 @@ The .bam files (together with the .bai files) can be downloaded from the 1000Gen
 
 ---
 
-### **Notes before starting: **
+### **Notes before starting:**
 
 Annotation files are needed. Please prepare the following files and place them into the directory named "required_files" before running the scripts. Ensure that you **_rename the files_** as shown. 
 
