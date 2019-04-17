@@ -31,7 +31,7 @@ The .bam files (together with the .bai files) can be downloaded from the 1000Gen
 
 ### **Notes before starting:**
 
-Annotation files are needed. Please prepare the following files and place them into the directory named "required_files" before running the scripts. Ensure that you **_rename the files_** as shown. 
+Annotation files used are mainly taken from, or modified from the UCSC genome browser database (https://genome.ucsc.edu/index.html). Please prepare the following files and place them into the "required_files" directory before running the scripts. Ensure that you **_rename the files_** as shown. 
 
 **1. hg19_genes_ucsc.txt**
 
@@ -47,6 +47,8 @@ Annotation files are needed. Please prepare the following files and place them i
 
 - This file can be downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility. Ensure group="Repeats"; track="RepeatMasker"; assembly="Feb.2009 (GRCh37/hg19)".  
 
+
+**4. hg19_telomere_centromere.txt**
 
 
 ---
