@@ -1,0 +1,15 @@
+NA18943	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA18943/alignment/NA18943.mapped.ILLUMINA.bwa.JPT.low_coverage.20130415.bam
+NA18952	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA18952/alignment/NA18952.mapped.ILLUMINA.bwa.JPT.low_coverage.20130415.bam
+NA18957	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA18957/alignment/NA18957.mapped.ILLUMINA.bwa.JPT.low_coverage.20130415.bam
+NA18968	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA18968/alignment/NA18968.mapped.ILLUMINA.bwa.JPT.low_coverage.20120522.bam
+NA18977	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA18977/alignment/NA18977.mapped.ILLUMINA.bwa.JPT.low_coverage.20120522.bam
+NA18991	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA18991/alignment/NA18991.mapped.ILLUMINA.bwa.JPT.low_coverage.20120522.bam
+NA18993	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA18993/alignment/NA18993.mapped.ILLUMINA.bwa.JPT.low_coverage.20130415.bam
+NA19000	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA19000/alignment/NA19000.mapped.ILLUMINA.bwa.JPT.low_coverage.20120522.bam
+NA19005	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA19005/alignment/NA19005.mapped.ILLUMINA.bwa.JPT.low_coverage.20120522.bam
+NA19007	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA19007/alignment/NA19007.mapped.ILLUMINA.bwa.JPT.low_coverage.20120522.bam
+NA19056	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA19056/alignment/NA19056.mapped.ILLUMINA.bwa.JPT.low_coverage.20120522.bam
+NA19059	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA19059/alignment/NA19059.mapped.ILLUMINA.bwa.JPT.low_coverage.20120522.bam
+NA19064	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA19064/alignment/NA19064.mapped.ILLUMINA.bwa.JPT.low_coverage.20120522.bam
+NA19074	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA19074/alignment/NA19074.mapped.ILLUMINA.bwa.JPT.low_coverage.20120522.bam
+NA19080	http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA19080/alignment/NA19080.mapped.ILLUMINA.bwa.JPT.low_coverage.20120522.bam
