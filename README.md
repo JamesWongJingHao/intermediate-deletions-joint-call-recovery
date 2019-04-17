@@ -22,7 +22,8 @@ First column should contain the sample name (e.g. "Sample1"), followed by the lo
 Note: Ensure that both .bam and .bai index files are located in the same directory/location.  
 Name the file **_"bam_files_locations.txt"_** and place into _"required_files"_ directory.  
 
-**Note: The "bam_files_locations.txt" file provided is only a placeholder file. Please provide a file that _corresponds to your data_ before running the script!"**
+**Note: The "bam_files_locations.txt" file provided is only a placeholder file. The file shows an example of the format that the bam_files_locations.txt file should look like. The .bam files (together with the .bai files) can be downloaded from the 1000Genomes Projects ftp server from the urls listed in the example file. 
+Please provide a file that _corresponds to your data_ before running the script!"**
 
 ---
 
