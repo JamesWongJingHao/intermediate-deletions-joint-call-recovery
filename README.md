@@ -29,6 +29,28 @@ The .bam files (together with the .bai files) can be downloaded from the 1000Gen
 
 ---
 
+### **Notes before starting: **
+
+Annotation files are needed. Please prepare the following files and place them into the directory named "required_files" before running the scripts. Ensure that you **_rename the files_** as shown. 
+
+**1. hg19_genes_ucsc.txt**
+
+- This file can be downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility. Ensure group="Genes and Gene Predictions"; track="NCBI RefSeq"; table="UCSC RefSeq (refGene)"; assembly="Feb.2009 (GRCh37/hg19)".  
+
+
+**2. hg19_simple_repeats_ucsc.txt**
+
+- This file can be downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility. Ensure group="Repeats"; track="Simple Repeats"; assembly="Feb.2009 (GRCh37/hg19)".  
+
+
+**3. hg19_repeatmasker_ucsc.txt**
+
+- This file can be downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility. Ensure group="Repeats"; track="RepeatMasker"; assembly="Feb.2009 (GRCh37/hg19)".  
+
+
+
+
+
 ### **Usage:**
 1. Make an overall deletions list from results of IMSindel indel call results for each sample run.
 
