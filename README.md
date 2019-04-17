@@ -38,7 +38,7 @@ Annotation files used are mainly taken from, or modified from the UCSC genome br
 
 **4. hg19_telomere_centromere.txt**
 
-- This file is provided. The file is modified from the file that can downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility, with group="All Tables"; database=hg19; table="gap".  
+- This file is provided. The file is modified after the original data was downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility, with group="All Tables"; database=hg19; table="gap".  
 
 
 **5. hg19_repeatmasker_ucsc_BED.txt**
