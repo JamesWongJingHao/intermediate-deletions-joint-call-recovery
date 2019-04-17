@@ -25,7 +25,7 @@ Name the file **_"bam_files_locations.txt"_** and place into _"required_files"_ 
 **Note: The "bam_files_locations.txt" file provided is only a placeholder file as an example of the format that the bam_files_locations.txt file should look like.  
 The .bam files (together with the .bai files) can be downloaded from the 1000Genomes Projects ftp server from the urls listed in the example file.**  
 
-**Please provide a file that _corresponds to your data_ before running the script to analyze your data!**
+**Please provide a file that _corresponds to your own data_ before running the script to analyze your data!**
 
 ---
 
