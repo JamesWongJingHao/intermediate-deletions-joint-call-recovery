@@ -60,6 +60,14 @@ The .bam files listed (together with the .bai files) can be obtained from the 10
 
 **Please provide a file that _corresponds to your own data_ before running the script to analyze your data!**
 
+
+**Example files:**
+
+- Example files for a number of samples from the 1000Genome Project are provided in the directory "Example_files".  
+- These files were produced from the outputs of indel calling using IMSindel software and processing the individual output files (as per the script <process_IMSindel_results.sh>.  
+- Deletions from chromosome 21 were extracted to make these examples files.  
+- Please use these files if you would like to test the <generate_high_confidence_deletions.sh> script.  
+
 ---
 
 ### **Usage:**
