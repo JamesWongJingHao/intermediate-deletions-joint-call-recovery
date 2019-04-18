@@ -51,15 +51,11 @@ Annotation files used are mainly taken from, or modified from the UCSC genome br
 - Prepare a tab-delimited text file containing sample names and locations of the corresponding .bam files of the samples.
 First column should contain the sample name (e.g. "Sample1"), followed by the location of the .bam file in the second column (e.g. "/path/to/directory/containing/Sample1.bam").  
 
-
-Note: Ensure that both .bam and .bai index files are located in the same directory/location.  
-Name the file **_"bam_files_locations.txt"_** and place into _"required_files"_ directory.  
+- Ensure that both .bam and .bai index files are located in the same directory/location. Name the file **_"bam_files_locations.txt"_** and place into _"required_files"_ directory.  
 
 **Note: The "bam_files_locations.txt" file provided is only a placeholder file as an example of the file format.  
 The .bam files listed (together with the .bai files) can be obtained from the 1000Genomes Projects ftp server from the URLs listed in the example file.**  
-
-**Please provide a file that _corresponds to your own data_ before running the script to analyze your data!**
-
+Please provide a file that **_corresponds to your own data_** should you wish to process your own samples!
 
 
 **Example files:**
