@@ -23,22 +23,22 @@ Annotation files used are mainly taken from, or modified from the UCSC genome br
 
 **1. hg19_genes_ucsc.txt**
 
-- This file can be downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility. Ensure group="Genes and Gene Predictions"; track="NCBI RefSeq"; table="UCSC RefSeq (refGene)"; assembly="Feb.2009 (GRCh37/hg19)".  
+- This file can be downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility tool. Ensure group="Genes and Gene Predictions"; track="NCBI RefSeq"; table="UCSC RefSeq (refGene)"; assembly="Feb.2009 (GRCh37/hg19)".  
 
 
 **2. hg19_simple_repeats_ucsc.txt**
 
-- This file can be downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility. Ensure group="Repeats"; track="Simple Repeats"; assembly="Feb.2009 (GRCh37/hg19)".  
+- This file can be downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility tool. Ensure group="Repeats"; track="Simple Repeats"; assembly="Feb.2009 (GRCh37/hg19)".  
 
 
 **3. hg19_repeatmasker_ucsc.txt**
 
-- This file can be downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility. Ensure group="Repeats"; track="RepeatMasker"; assembly="Feb.2009 (GRCh37/hg19)".  
+- This file can be downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility tool. Ensure group="Repeats"; track="RepeatMasker"; assembly="Feb.2009 (GRCh37/hg19)".  
 
 
 **4. hg19_telomere_centromere.txt**
 
-- This file is provided. The file is modified after the original data was downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) under the Table Browser utility, with group="All Tables"; database=hg19; table="gap".  
+- This file is provided. The file is modified after the original data was downloaded from the UCSC genome browser site (https://genome.ucsc.edu/index.html) using the Table Browser utility tool, with group="All Tables"; database=hg19; table="gap".  
 
 
 **5. hg19_repeatmasker_ucsc_BED.txt**
