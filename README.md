@@ -190,7 +190,7 @@ If you would like to change the parameters, please make changes to the provided 
 
 - readscore_filter_threshold: Threshold value of average quality score of the region around the deletion breakpoints. Default value is 15.
 
-- reference: Source of reference used for the sequencing data. Value should be a string describing the reference source (e.g. NCBI37).\
+- reference: Source of reference used for the sequencing data. Value should be a string describing the reference source (e.g. NCBI37).  
 
 - assembly: Source of genome assembly used for the sequencing data. Value should be a string describing the assembly (e.g.ncbi_build37.fa).
 
