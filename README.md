@@ -19,7 +19,7 @@ R (ver. 3.5.1 or higher)
 
 ### **Notes before starting:**
 
-Annotation files used are mainly taken from, or modified from the UCSC genome browser database (https://genome.ucsc.edu/index.html). Please prepare the following files and place them into the "required_files" directory before running the scripts. Ensure that you **_rename the files_** as shown. 
+Annotation files used are mainly taken or modified from the UCSC genome browser database (https://genome.ucsc.edu/index.html). Please prepare the following files and place them into the "required_files" directory before running the scripts. Ensure that you **_rename the files_** as shown. 
 
 **1. hg19_genes_ucsc.txt**
 
@@ -53,7 +53,7 @@ First column should contain the sample name (e.g. "Sample1"), followed by the lo
 
 - Ensure that both .bam and .bai index files are located in the _same directory/location_. Name the file **_"bam_files_locations.txt"_** and place into _"required_files"_ directory.  
 
-**Note: The "bam_files_locations.txt" file provided is only a placeholder file as an example of the file format.  
+**Note: The "bam_files_locations.txt" file provided here is only a placeholder file as an example of the file format.  
 The .bam files listed (together with the .bai files) can be obtained from the 1000Genomes Projects ftp server from the URLs listed in the example file.**  
 Please provide a file that **_corresponds to your own data_** should you wish to process your own samples!
 
